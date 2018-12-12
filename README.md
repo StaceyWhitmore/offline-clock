@@ -1,7 +1,7 @@
 Offline Clock App
 =================
 This is old source code I came across for an offline clock app. Although its
-methods are deprecated([see](https://sites.google.com/a/chromium.org/dev/Home/chromium-security/deprecating-powerful-features-on-insecure-origins)) I find it interesting for historical purposes.
+methods are deprecated([see https://goo.gl/rStTGz](https://sites.google.com/a/chromium.org/dev/Home/chromium-security/deprecating-powerful-features-on-insecure-origins)) I find it interesting for historical purposes.
 Also, I plan to revamp it implementing service workers and a more attractive UI.
 
 It includes some starter code for a basic Clock that returns the date and time
